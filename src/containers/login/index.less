@@ -1,0 +1,62 @@
+@import "../../assets/style/theme.less";
+.login-content{
+	background: @fill-base;
+    height: 100%;
+    position: relative;
+
+    .login-express{
+        margin-top: 20px;
+        font-size: 28px;
+        div{
+            color: @color-text-placeholder;
+            padding-top: 10px;
+        }
+        padding-bottom: 100px;
+    }
+	.header{
+		text-align: center;
+		padding: 30*@hd 0 50*@hd;
+		img{
+			width: 50*@hd;
+			height:50*@hd;
+			border-radius: 50%;
+		}
+	}
+	.am-list-body{
+			&:before{
+				height:0 !important;
+			}
+	}
+	.am-input-label-5{
+		width:30*@hd !important;
+	}
+	.am-input-control input{
+		font-size:@font-size-base !important;
+	}
+	.code-btn{
+			position:absolute;
+			right: 0;
+			top:0;
+			font-size:@font-size-caption-sm;
+			color:@color-text-base;
+			padding:0 10*@hd;
+			background:@fill-ancillary;
+			height:44*@hd;
+			line-height:44*@hd;
+		}
+
+	.btn{
+		background:@brand-primary;
+		font-size: @font-size-base;
+		margin-top: 10*@hd;
+	}
+	.bottom{
+		width:100%;
+        text-align: right;
+        font-size: 24px;
+		.span{
+			padding:10*@hd 30*@hd;
+			display:inline-block;
+		}
+	}
+}

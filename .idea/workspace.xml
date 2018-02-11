@@ -1,0 +1,1297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e68142e-35e9-4024-a2b6-99054fba5461" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/Group@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/containers/Commission/pay-pop-box.less" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/font/iconfont.eot" afterPath="$PROJECT_DIR$/src/assets/font/iconfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/font/iconfont.ttf" afterPath="$PROJECT_DIR$/src/assets/font/iconfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/font/iconfont.woff" afterPath="$PROJECT_DIR$/src/assets/font/iconfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/1.png" afterPath="$PROJECT_DIR$/src/assets/images/1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/10.png" afterPath="$PROJECT_DIR$/src/assets/images/10.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/2.png" afterPath="$PROJECT_DIR$/src/assets/images/2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/404.png" afterPath="$PROJECT_DIR$/src/assets/images/404.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/Artboard.png" afterPath="$PROJECT_DIR$/src/assets/images/Artboard.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/Christmas/banner@2x.png" afterPath="$PROJECT_DIR$/src/assets/images/Christmas/banner@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/Christmas/bg1.png" afterPath="$PROJECT_DIR$/src/assets/images/Christmas/bg1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/Christmas/bg2.png" afterPath="$PROJECT_DIR$/src/assets/images/Christmas/bg2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/Christmas/bg3.png" afterPath="$PROJECT_DIR$/src/assets/images/Christmas/bg3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/Christmas/c1.png" afterPath="$PROJECT_DIR$/src/assets/images/Christmas/c1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/Christmas/c2.png" afterPath="$PROJECT_DIR$/src/assets/images/Christmas/c2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/Christmas/c3.png" afterPath="$PROJECT_DIR$/src/assets/images/Christmas/c3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/Christmas/c4.png" afterPath="$PROJECT_DIR$/src/assets/images/Christmas/c4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/Christmas/t0.png" afterPath="$PROJECT_DIR$/src/assets/images/Christmas/t0.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/Christmas/t1.png" afterPath="$PROJECT_DIR$/src/assets/images/Christmas/t1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/Christmas/t2.png" afterPath="$PROJECT_DIR$/src/assets/images/Christmas/t2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/Christmas/t3.png" afterPath="$PROJECT_DIR$/src/assets/images/Christmas/t3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/Christmas/tabbar1.png" afterPath="$PROJECT_DIR$/src/assets/images/Christmas/tabbar1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/Christmas/tabbar2.png" afterPath="$PROJECT_DIR$/src/assets/images/Christmas/tabbar2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/Christmas/tabbar3.png" afterPath="$PROJECT_DIR$/src/assets/images/Christmas/tabbar3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/Christmas/tabbar4.png" afterPath="$PROJECT_DIR$/src/assets/images/Christmas/tabbar4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/Christmas/渐变底色@2x.png" afterPath="$PROJECT_DIR$/src/assets/images/Christmas/渐变底色@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/Idcard.png" afterPath="$PROJECT_DIR$/src/assets/images/Idcard.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/Idcard1.png" afterPath="$PROJECT_DIR$/src/assets/images/Idcard1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/QQ.png" afterPath="$PROJECT_DIR$/src/assets/images/QQ.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/TisPD_2.png" afterPath="$PROJECT_DIR$/src/assets/images/TisPD_2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/aa@2x.png" afterPath="$PROJECT_DIR$/src/assets/images/aa@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/1 (2).png" afterPath="$PROJECT_DIR$/src/assets/images/activity/1 (2).png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/1.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/a.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/a.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/award01.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/award01.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/award02.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/award02.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/award02_11.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/award02_11.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/award03.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/award03.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/award03_11.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/award03_11.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/award04.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/award04.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/award05.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/award05.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/award06.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/award06.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/award06_11.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/award06_11.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/award07.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/award07.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/award08.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/award08.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/back.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/back.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/bg.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/bg2.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/bg2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/ch01.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/ch01.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/ch02.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/ch02.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/ch03.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/ch03.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/ch04.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/ch04.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/colose.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/colose.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/getAward.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/getAward.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/go.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/go.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/my-award.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/my-award.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/qrcode.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/qrcode.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/share.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/share.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/t-btn.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/t-btn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/t-img-bg.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/t-img-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/t-img.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/t-img.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/top.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/top.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/activity/top2.png" afterPath="$PROJECT_DIR$/src/assets/images/activity/top2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/baokuan.png" afterPath="$PROJECT_DIR$/src/assets/images/baokuan.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/bg_partner@2x.png" afterPath="$PROJECT_DIR$/src/assets/images/bg_partner@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/cart-fill.png" afterPath="$PROJECT_DIR$/src/assets/images/cart-fill.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/cart.png" afterPath="$PROJECT_DIR$/src/assets/images/cart.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/class-fill.png" afterPath="$PROJECT_DIR$/src/assets/images/class-fill.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/class.png" afterPath="$PROJECT_DIR$/src/assets/images/class.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/commin@2x.png" afterPath="$PROJECT_DIR$/src/assets/images/commin@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/commision.png" afterPath="$PROJECT_DIR$/src/assets/images/commision.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/coup0.png" afterPath="$PROJECT_DIR$/src/assets/images/coup0.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/coup1.png" afterPath="$PROJECT_DIR$/src/assets/images/coup1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/coup2.png" afterPath="$PROJECT_DIR$/src/assets/images/coup2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/coup3.png" afterPath="$PROJECT_DIR$/src/assets/images/coup3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/coupon.png" afterPath="$PROJECT_DIR$/src/assets/images/coupon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/dejia.png" afterPath="$PROJECT_DIR$/src/assets/images/dejia.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/empty_1.jpg" afterPath="$PROJECT_DIR$/src/assets/images/empty_1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/empty_2.jpg" afterPath="$PROJECT_DIR$/src/assets/images/empty_2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/empty_3.jpg" afterPath="$PROJECT_DIR$/src/assets/images/empty_3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/empty_4.jpg" afterPath="$PROJECT_DIR$/src/assets/images/empty_4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/fenxiang.png" afterPath="$PROJECT_DIR$/src/assets/images/fenxiang.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/gyvbsc-bg.png" afterPath="$PROJECT_DIR$/src/assets/images/gyvbsc-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/header.jpg" afterPath="$PROJECT_DIR$/src/assets/images/header.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/home-fill.png" afterPath="$PROJECT_DIR$/src/assets/images/home-fill.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/home.png" afterPath="$PROJECT_DIR$/src/assets/images/home.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/i-check-integ@3x.png" afterPath="$PROJECT_DIR$/src/assets/images/i-check-integ@3x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/i-money@3x.png" afterPath="$PROJECT_DIR$/src/assets/images/i-money@3x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/i-pay-success@3x.png" afterPath="$PROJECT_DIR$/src/assets/images/i-pay-success@3x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/icon_search.png" afterPath="$PROJECT_DIR$/src/assets/images/icon_search.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/icon_sldown.png" afterPath="$PROJECT_DIR$/src/assets/images/icon_sldown.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/icon_slup.png" afterPath="$PROJECT_DIR$/src/assets/images/icon_slup.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/jiantou.png" afterPath="$PROJECT_DIR$/src/assets/images/jiantou.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/kezhang.png" afterPath="$PROJECT_DIR$/src/assets/images/kezhang.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/live_push_share@2x.png" afterPath="$PROJECT_DIR$/src/assets/images/live_push_share@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/loading.gif" afterPath="$PROJECT_DIR$/src/assets/images/loading.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/lodding.gif" afterPath="$PROJECT_DIR$/src/assets/images/lodding.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/logo.png" afterPath="$PROJECT_DIR$/src/assets/images/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/menid-down.png" afterPath="$PROJECT_DIR$/src/assets/images/menid-down.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/menid-up.png" afterPath="$PROJECT_DIR$/src/assets/images/menid-up.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/more.png" afterPath="$PROJECT_DIR$/src/assets/images/more.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/my-fill.png" afterPath="$PROJECT_DIR$/src/assets/images/my-fill.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/my.png" afterPath="$PROJECT_DIR$/src/assets/images/my.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/myorder-icon1-02.png" afterPath="$PROJECT_DIR$/src/assets/images/myorder-icon1-02.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/myorder-icon1-03.png" afterPath="$PROJECT_DIR$/src/assets/images/myorder-icon1-03.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/myorder-icon1-04.png" afterPath="$PROJECT_DIR$/src/assets/images/myorder-icon1-04.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/myorder-icon1-05.png" afterPath="$PROJECT_DIR$/src/assets/images/myorder-icon1-05.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/myorder-icon1-06.png" afterPath="$PROJECT_DIR$/src/assets/images/myorder-icon1-06.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/net-error.png" afterPath="$PROJECT_DIR$/src/assets/images/net-error.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/new_icon2-01.png" afterPath="$PROJECT_DIR$/src/assets/images/new_icon2-01.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/new_icon3-01.png" afterPath="$PROJECT_DIR$/src/assets/images/new_icon3-01.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/new_icon3-02.png" afterPath="$PROJECT_DIR$/src/assets/images/new_icon3-02.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/new_icon3-03.png" afterPath="$PROJECT_DIR$/src/assets/images/new_icon3-03.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/new_icon3-05.png" afterPath="$PROJECT_DIR$/src/assets/images/new_icon3-05.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/no_order.png" afterPath="$PROJECT_DIR$/src/assets/images/no_order.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/over.png" afterPath="$PROJECT_DIR$/src/assets/images/over.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/pingpai.png" afterPath="$PROJECT_DIR$/src/assets/images/pingpai.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/pov-coupon.png" afterPath="$PROJECT_DIR$/src/assets/images/pov-coupon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/pro-collect-icon2.png" afterPath="$PROJECT_DIR$/src/assets/images/pro-collect-icon2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/quanqiugou.png" afterPath="$PROJECT_DIR$/src/assets/images/quanqiugou.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/rendui.png" afterPath="$PROJECT_DIR$/src/assets/images/rendui.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/renzheng@2x.png" afterPath="$PROJECT_DIR$/src/assets/images/renzheng@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/sbkz_yd_btn1.png" afterPath="$PROJECT_DIR$/src/assets/images/sbkz_yd_btn1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/share-bg.png" afterPath="$PROJECT_DIR$/src/assets/images/share-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/share-btn.png" afterPath="$PROJECT_DIR$/src/assets/images/share-btn.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/share-btn2.png" afterPath="$PROJECT_DIR$/src/assets/images/share-btn2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/share-icon.png" afterPath="$PROJECT_DIR$/src/assets/images/share-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/state@2x.png" afterPath="$PROJECT_DIR$/src/assets/images/state@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/tixian_bg.png" afterPath="$PROJECT_DIR$/src/assets/images/tixian_bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/touxiang@2x.png" afterPath="$PROJECT_DIR$/src/assets/images/touxiang@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/weibo.png" afterPath="$PROJECT_DIR$/src/assets/images/weibo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/weixin.png" afterPath="$PROJECT_DIR$/src/assets/images/weixin.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/weixinFirs.png" afterPath="$PROJECT_DIR$/src/assets/images/weixinFirs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/xinping.png" afterPath="$PROJECT_DIR$/src/assets/images/xinping.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/xp20161012_1.png" afterPath="$PROJECT_DIR$/src/assets/images/xp20161012_1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/xunjieliuchengtu.exe" afterPath="$PROJECT_DIR$/src/assets/images/xunjieliuchengtu.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/yiguoqi-icon.png" afterPath="$PROJECT_DIR$/src/assets/images/yiguoqi-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/yilingqu-icon.png" afterPath="$PROJECT_DIR$/src/assets/images/yilingqu-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/yishiyong-icon.png" afterPath="$PROJECT_DIR$/src/assets/images/yishiyong-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/youhuiquan.png" afterPath="$PROJECT_DIR$/src/assets/images/youhuiquan.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/yugou.png" afterPath="$PROJECT_DIR$/src/assets/images/yugou.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/占位符  274_120@2x.jpg" afterPath="$PROJECT_DIR$/src/assets/images/占位符  274_120@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/占位符 100_100@2x.jpg" afterPath="$PROJECT_DIR$/src/assets/images/占位符 100_100@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/占位符 375_150@2x.jpg" afterPath="$PROJECT_DIR$/src/assets/images/占位符 375_150@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/images/快购钱包@2x.png" afterPath="$PROJECT_DIR$/src/assets/images/快购钱包@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.editorconfig" afterPath="$PROJECT_DIR$/.editorconfig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eslintignore" afterPath="$PROJECT_DIR$/.eslintignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.eslintrc.json" afterPath="$PROJECT_DIR$/.eslintrc.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitattributes" afterPath="$PROJECT_DIR$/.gitattributes" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/VB.iml" afterPath="$PROJECT_DIR$/.idea/VB.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.project" afterPath="$PROJECT_DIR$/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.js" afterPath="$PROJECT_DIR$/src/App.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test.js" afterPath="$PROJECT_DIR$/src/Test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/BaseAction.js" afterPath="$PROJECT_DIR$/src/actions/BaseAction.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/Password.js" afterPath="$PROJECT_DIR$/src/actions/Password.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/Test.js" afterPath="$PROJECT_DIR$/src/actions/Test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/activity.js" afterPath="$PROJECT_DIR$/src/actions/activity.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/activityProduct.js" afterPath="$PROJECT_DIR$/src/actions/activityProduct.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/address.js" afterPath="$PROJECT_DIR$/src/actions/address.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/brandSale.js" afterPath="$PROJECT_DIR$/src/actions/brandSale.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/classIfication.js" afterPath="$PROJECT_DIR$/src/actions/classIfication.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/collection.js" afterPath="$PROJECT_DIR$/src/actions/collection.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/coupon.js" afterPath="$PROJECT_DIR$/src/actions/coupon.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/evaluation.js" afterPath="$PROJECT_DIR$/src/actions/evaluation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/home.js" afterPath="$PROJECT_DIR$/src/actions/home.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/hostConf.js" afterPath="$PROJECT_DIR$/src/actions/hostConf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/hotel.js" afterPath="$PROJECT_DIR$/src/actions/hotel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/newShelves.js" afterPath="$PROJECT_DIR$/src/actions/newShelves.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/orderDetails.js" afterPath="$PROJECT_DIR$/src/actions/orderDetails.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/product.js" afterPath="$PROJECT_DIR$/src/actions/product.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/sblodge.js" afterPath="$PROJECT_DIR$/src/actions/sblodge.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/search.js" afterPath="$PROJECT_DIR$/src/actions/search.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/actions/user.js" afterPath="$PROJECT_DIR$/src/actions/user.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/font/demo.css" afterPath="$PROJECT_DIR$/src/assets/font/demo.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/font/demo_fontclass.html" afterPath="$PROJECT_DIR$/src/assets/font/demo_fontclass.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/font/demo_symbol.html" afterPath="$PROJECT_DIR$/src/assets/font/demo_symbol.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/font/demo_unicode.html" afterPath="$PROJECT_DIR$/src/assets/font/demo_unicode.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/font/iconfont.css" afterPath="$PROJECT_DIR$/src/assets/font/iconfont.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/font/iconfont.js" afterPath="$PROJECT_DIR$/src/assets/font/iconfont.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/font/iconfont.svg" afterPath="$PROJECT_DIR$/src/assets/font/iconfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/style/app.scss" afterPath="$PROJECT_DIR$/src/assets/style/app.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/style/common.less" afterPath="$PROJECT_DIR$/src/assets/style/common.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/style/icons.less" afterPath="$PROJECT_DIR$/src/assets/style/icons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/style/index.less" afterPath="$PROJECT_DIR$/src/assets/style/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/assets/style/theme.less" afterPath="$PROJECT_DIR$/src/assets/style/theme.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ActivityItem/index.js" afterPath="$PROJECT_DIR$/src/components/ActivityItem/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ActivityItem/index.less" afterPath="$PROJECT_DIR$/src/components/ActivityItem/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Alert/index.js" afterPath="$PROJECT_DIR$/src/components/Alert/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Alert/index.less" afterPath="$PROJECT_DIR$/src/components/Alert/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/AllProducts/index.js" afterPath="$PROJECT_DIR$/src/components/AllProducts/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Assess/index.js" afterPath="$PROJECT_DIR$/src/components/Assess/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Assess/index.less" afterPath="$PROJECT_DIR$/src/components/Assess/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/BottomBtn/index.js" afterPath="$PROJECT_DIR$/src/components/BottomBtn/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/BottomBtn/index.less" afterPath="$PROJECT_DIR$/src/components/BottomBtn/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Cart/index.js" afterPath="$PROJECT_DIR$/src/components/Cart/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Cart/index.less" afterPath="$PROJECT_DIR$/src/components/Cart/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ClassIficationContent/index.js" afterPath="$PROJECT_DIR$/src/components/ClassIficationContent/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ClassIficationContent/index.less" afterPath="$PROJECT_DIR$/src/components/ClassIficationContent/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ClassIficationItem/index.js" afterPath="$PROJECT_DIR$/src/components/ClassIficationItem/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ClassIficationItem/index.less" afterPath="$PROJECT_DIR$/src/components/ClassIficationItem/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/CommissionProduct/index.js" afterPath="$PROJECT_DIR$/src/components/CommissionProduct/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/CommissionProduct/index.less" afterPath="$PROJECT_DIR$/src/components/CommissionProduct/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Commodity/index.js" afterPath="$PROJECT_DIR$/src/components/Commodity/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Commodity/index.scss" afterPath="$PROJECT_DIR$/src/components/Commodity/index.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/CommodityPrice/index.js" afterPath="$PROJECT_DIR$/src/components/CommodityPrice/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/CommodityPrice/index.less" afterPath="$PROJECT_DIR$/src/components/CommodityPrice/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/CouponTem/index.js" afterPath="$PROJECT_DIR$/src/components/CouponTem/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/CouponTem/index.less" afterPath="$PROJECT_DIR$/src/components/CouponTem/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/EmptyData/index.js" afterPath="$PROJECT_DIR$/src/components/EmptyData/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/EmptyData/index.less" afterPath="$PROJECT_DIR$/src/components/EmptyData/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/FilterBar/index.js" afterPath="$PROJECT_DIR$/src/components/FilterBar/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/FilterBar/index.less" afterPath="$PROJECT_DIR$/src/components/FilterBar/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/IDCard/index.js" afterPath="$PROJECT_DIR$/src/components/IDCard/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/IDCard/index.less" afterPath="$PROJECT_DIR$/src/components/IDCard/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ImageView/components.js" afterPath="$PROJECT_DIR$/src/components/ImageView/components.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ImageView/index.js" afterPath="$PROJECT_DIR$/src/components/ImageView/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ImageView/index.less" afterPath="$PROJECT_DIR$/src/components/ImageView/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ImageView/libs/alloyfinger.js" afterPath="$PROJECT_DIR$/src/components/ImageView/libs/alloyfinger.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ImageView/libs/singleton.js" afterPath="$PROJECT_DIR$/src/components/ImageView/libs/singleton.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ImageView/libs/transform.js" afterPath="$PROJECT_DIR$/src/components/ImageView/libs/transform.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Img/index.js" afterPath="$PROJECT_DIR$/src/components/Img/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ListSwiper/index.less" afterPath="$PROJECT_DIR$/src/components/ListSwiper/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ListSwiper/listSwiper.js" afterPath="$PROJECT_DIR$/src/components/ListSwiper/listSwiper.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ListViewProduct/index.js" afterPath="$PROJECT_DIR$/src/components/ListViewProduct/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ListViewProduct/index.less" afterPath="$PROJECT_DIR$/src/components/ListViewProduct/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Loading/index.js" afterPath="$PROJECT_DIR$/src/components/Loading/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Loading/index.scss" afterPath="$PROJECT_DIR$/src/components/Loading/index.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/NavBar/index.js" afterPath="$PROJECT_DIR$/src/components/NavBar/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/NavBar/index.less" afterPath="$PROJECT_DIR$/src/components/NavBar/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Order/index.js" afterPath="$PROJECT_DIR$/src/components/Order/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ProductItem/index.js" afterPath="$PROJECT_DIR$/src/components/ProductItem/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ProductItem/index.less" afterPath="$PROJECT_DIR$/src/components/ProductItem/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ProductList/index.js" afterPath="$PROJECT_DIR$/src/components/ProductList/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ProductList/index.scss" afterPath="$PROJECT_DIR$/src/components/ProductList/index.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ProductProperties/index.js" afterPath="$PROJECT_DIR$/src/components/ProductProperties/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ProductProperties/index.less" afterPath="$PROJECT_DIR$/src/components/ProductProperties/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Rate/index.js" afterPath="$PROJECT_DIR$/src/components/Rate/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Rate/index.less" afterPath="$PROJECT_DIR$/src/components/Rate/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Scroller/AlloyTouch.js" afterPath="$PROJECT_DIR$/src/components/Scroller/AlloyTouch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Scroller/ReactAlloyTouch.js" afterPath="$PROJECT_DIR$/src/components/Scroller/ReactAlloyTouch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Scroller/ReactCarousel.js" afterPath="$PROJECT_DIR$/src/components/Scroller/ReactCarousel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Scroller/ReactPull.js" afterPath="$PROJECT_DIR$/src/components/Scroller/ReactPull.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Scroller/index.js" afterPath="$PROJECT_DIR$/src/components/Scroller/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Scroller/index.scss" afterPath="$PROJECT_DIR$/src/components/Scroller/index.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Search/index.js" afterPath="$PROJECT_DIR$/src/components/Search/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Search/index.less" afterPath="$PROJECT_DIR$/src/components/Search/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ShopCartItem/index.js" afterPath="$PROJECT_DIR$/src/components/ShopCartItem/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/ShopCartItem/index.scss" afterPath="$PROJECT_DIR$/src/components/ShopCartItem/index.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Swipers/index.js" afterPath="$PROJECT_DIR$/src/components/Swipers/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Swipers/index.less" afterPath="$PROJECT_DIR$/src/components/Swipers/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/TabBar/index.js" afterPath="$PROJECT_DIR$/src/components/TabBar/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/TabBar/index.less" afterPath="$PROJECT_DIR$/src/components/TabBar/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Text/index.js" afterPath="$PROJECT_DIR$/src/components/Text/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/Text/index.less" afterPath="$PROJECT_DIR$/src/components/Text/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/UploadImg/index.js" afterPath="$PROJECT_DIR$/src/components/UploadImg/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/UploadImg/index.less" afterPath="$PROJECT_DIR$/src/components/UploadImg/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/tankuang/index.js" afterPath="$PROJECT_DIR$/src/components/tankuang/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/components/tankuang/index.less" afterPath="$PROJECT_DIR$/src/components/tankuang/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/AboutVb/index.js" afterPath="$PROJECT_DIR$/src/containers/AboutVb/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/AboutVb/index.less" afterPath="$PROJECT_DIR$/src/containers/AboutVb/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Activity/address.js" afterPath="$PROJECT_DIR$/src/containers/Activity/address.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Activity/goldEggs.js" afterPath="$PROJECT_DIR$/src/containers/Activity/goldEggs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Activity/index.js" afterPath="$PROJECT_DIR$/src/containers/Activity/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Activity/index.less" afterPath="$PROJECT_DIR$/src/containers/Activity/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/ActivityProduct/index.js" afterPath="$PROJECT_DIR$/src/containers/ActivityProduct/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/ActivityProduct/index.less" afterPath="$PROJECT_DIR$/src/containers/ActivityProduct/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Address/AddressList.js" afterPath="$PROJECT_DIR$/src/containers/Address/AddressList.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Address/address.js" afterPath="$PROJECT_DIR$/src/containers/Address/address.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Address/index.js" afterPath="$PROJECT_DIR$/src/containers/Address/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Address/index.less" afterPath="$PROJECT_DIR$/src/containers/Address/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/AfterSale/apply.js" afterPath="$PROJECT_DIR$/src/containers/AfterSale/apply.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/AfterSale/backFillInfo.js" afterPath="$PROJECT_DIR$/src/containers/AfterSale/backFillInfo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/AfterSale/chooseGoods.js" afterPath="$PROJECT_DIR$/src/containers/AfterSale/chooseGoods.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/AfterSale/chooseType.js" afterPath="$PROJECT_DIR$/src/containers/AfterSale/chooseType.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/AfterSale/histroy.js" afterPath="$PROJECT_DIR$/src/containers/AfterSale/histroy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/AfterSale/index.js" afterPath="$PROJECT_DIR$/src/containers/AfterSale/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/AfterSale/index.less" afterPath="$PROJECT_DIR$/src/containers/AfterSale/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/AfterSale/refundDetail.js" afterPath="$PROJECT_DIR$/src/containers/AfterSale/refundDetail.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/AfterSale/updateApply.js" afterPath="$PROJECT_DIR$/src/containers/AfterSale/updateApply.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Agreement/index.js" afterPath="$PROJECT_DIR$/src/containers/Agreement/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Agreement/index.less" afterPath="$PROJECT_DIR$/src/containers/Agreement/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/BrandSale/index.js" afterPath="$PROJECT_DIR$/src/containers/BrandSale/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/BrandSale/index.less" afterPath="$PROJECT_DIR$/src/containers/BrandSale/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/BuyNow/index.js" afterPath="$PROJECT_DIR$/src/containers/BuyNow/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/BuyNow/index.less" afterPath="$PROJECT_DIR$/src/containers/BuyNow/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/ClassIfication/index.js" afterPath="$PROJECT_DIR$/src/containers/ClassIfication/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/ClassIfication/index.less" afterPath="$PROJECT_DIR$/src/containers/ClassIfication/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/ClassShop/index.js" afterPath="$PROJECT_DIR$/src/containers/ClassShop/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/ClassShop/index.less" afterPath="$PROJECT_DIR$/src/containers/ClassShop/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Collection/CaseCollection.js" afterPath="$PROJECT_DIR$/src/containers/Collection/CaseCollection.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Collection/VbCollection.js" afterPath="$PROJECT_DIR$/src/containers/Collection/VbCollection.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Collection/index.js" afterPath="$PROJECT_DIR$/src/containers/Collection/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Collection/index.less" afterPath="$PROJECT_DIR$/src/containers/Collection/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/CommectProduct/DryingOrders.js" afterPath="$PROJECT_DIR$/src/containers/CommectProduct/DryingOrders.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/CommectProduct/index.js" afterPath="$PROJECT_DIR$/src/containers/CommectProduct/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/CommectProduct/index.less" afterPath="$PROJECT_DIR$/src/containers/CommectProduct/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Commission/Detailed01.js" afterPath="$PROJECT_DIR$/src/containers/Commission/Detailed01.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Commission/Wallet.js" afterPath="$PROJECT_DIR$/src/containers/Commission/Wallet.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Commission/history.js" afterPath="$PROJECT_DIR$/src/containers/Commission/history.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Commission/index.js" afterPath="$PROJECT_DIR$/src/containers/Commission/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Commission/index.less" afterPath="$PROJECT_DIR$/src/containers/Commission/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Commission/order.js" afterPath="$PROJECT_DIR$/src/containers/Commission/order.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Commission/withDraw.js" afterPath="$PROJECT_DIR$/src/containers/Commission/withDraw.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/CommodityList/index.js" afterPath="$PROJECT_DIR$/src/containers/CommodityList/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/CommodityList/index.scss" afterPath="$PROJECT_DIR$/src/containers/CommodityList/index.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Coupon/bindCoupon.js" afterPath="$PROJECT_DIR$/src/containers/Coupon/bindCoupon.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Coupon/index.js" afterPath="$PROJECT_DIR$/src/containers/Coupon/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Coupon/index.less" afterPath="$PROJECT_DIR$/src/containers/Coupon/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/CouponCentre/index.js" afterPath="$PROJECT_DIR$/src/containers/CouponCentre/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/CouponCentre/index.less" afterPath="$PROJECT_DIR$/src/containers/CouponCentre/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/DevTools.js" afterPath="$PROJECT_DIR$/src/containers/DevTools.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Evaluation/index.js" afterPath="$PROJECT_DIR$/src/containers/Evaluation/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Evaluation/index.less" afterPath="$PROJECT_DIR$/src/containers/Evaluation/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/ExplosionRecom/index.js" afterPath="$PROJECT_DIR$/src/containers/ExplosionRecom/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/ExplosionRecom/index.scss" afterPath="$PROJECT_DIR$/src/containers/ExplosionRecom/index.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Home/index.js" afterPath="$PROJECT_DIR$/src/containers/Home/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Home/index.less" afterPath="$PROJECT_DIR$/src/containers/Home/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Home/index1.js" afterPath="$PROJECT_DIR$/src/containers/Home/index1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Home/index1.less" afterPath="$PROJECT_DIR$/src/containers/Home/index1.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Home1/index.js" afterPath="$PROJECT_DIR$/src/containers/Home1/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Home1/index.less" afterPath="$PROJECT_DIR$/src/containers/Home1/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/HotelIntroduce/index.js" afterPath="$PROJECT_DIR$/src/containers/HotelIntroduce/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/HotelIntroduce/index.less" afterPath="$PROJECT_DIR$/src/containers/HotelIntroduce/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/HotelList/index.js" afterPath="$PROJECT_DIR$/src/containers/HotelList/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/HotelList/index.less" afterPath="$PROJECT_DIR$/src/containers/HotelList/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/HotelOrder/index.js" afterPath="$PROJECT_DIR$/src/containers/HotelOrder/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/HotelOrder/index.less" afterPath="$PROJECT_DIR$/src/containers/HotelOrder/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/IficationList/index.js" afterPath="$PROJECT_DIR$/src/containers/IficationList/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/IficationList/index.scss" afterPath="$PROJECT_DIR$/src/containers/IficationList/index.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/LodgeDetails/index.js" afterPath="$PROJECT_DIR$/src/containers/LodgeDetails/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/LodgeDetails/index.less" afterPath="$PROJECT_DIR$/src/containers/LodgeDetails/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/MyEvaluation/BeEvaluation.js" afterPath="$PROJECT_DIR$/src/containers/MyEvaluation/BeEvaluation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/MyEvaluation/Completed.js" afterPath="$PROJECT_DIR$/src/containers/MyEvaluation/Completed.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/MyEvaluation/ItemEva.js" afterPath="$PROJECT_DIR$/src/containers/MyEvaluation/ItemEva.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/MyEvaluation/index.js" afterPath="$PROJECT_DIR$/src/containers/MyEvaluation/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/MyEvaluation/index.less" afterPath="$PROJECT_DIR$/src/containers/MyEvaluation/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/MyInfo/index.js" afterPath="$PROJECT_DIR$/src/containers/MyInfo/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/MyInfo/index.less" afterPath="$PROJECT_DIR$/src/containers/MyInfo/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/MyOrder/Delivered.js" afterPath="$PROJECT_DIR$/src/containers/MyOrder/Delivered.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/MyOrder/Details.js" afterPath="$PROJECT_DIR$/src/containers/MyOrder/Details.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/MyOrder/Evaluated.js" afterPath="$PROJECT_DIR$/src/containers/MyOrder/Evaluated.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/MyOrder/OrderItem.js" afterPath="$PROJECT_DIR$/src/containers/MyOrder/OrderItem.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/MyOrder/Paid.js" afterPath="$PROJECT_DIR$/src/containers/MyOrder/Paid.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/MyOrder/Received.js" afterPath="$PROJECT_DIR$/src/containers/MyOrder/Received.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/MyOrder/index.js" afterPath="$PROJECT_DIR$/src/containers/MyOrder/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/MyOrder/index.less" afterPath="$PROJECT_DIR$/src/containers/MyOrder/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/NewShelves/index.js" afterPath="$PROJECT_DIR$/src/containers/NewShelves/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/NewShelves/index.less" afterPath="$PROJECT_DIR$/src/containers/NewShelves/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/OnlinePayment/index.js" afterPath="$PROJECT_DIR$/src/containers/OnlinePayment/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/OnlinePayment/index.less" afterPath="$PROJECT_DIR$/src/containers/OnlinePayment/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/OrderDetails/index.js" afterPath="$PROJECT_DIR$/src/containers/OrderDetails/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/OrderDetails/index.less" afterPath="$PROJECT_DIR$/src/containers/OrderDetails/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Password/AccountManagement.js" afterPath="$PROJECT_DIR$/src/containers/Password/AccountManagement.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Password/Identity.js" afterPath="$PROJECT_DIR$/src/containers/Password/Identity.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Password/IdentityAuthentication.js" afterPath="$PROJECT_DIR$/src/containers/Password/IdentityAuthentication.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Password/OPassword.js" afterPath="$PROJECT_DIR$/src/containers/Password/OPassword.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Password/Remember.js" afterPath="$PROJECT_DIR$/src/containers/Password/Remember.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Password/Reset.js" afterPath="$PROJECT_DIR$/src/containers/Password/Reset.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Password/SubmitWeChat.js" afterPath="$PROJECT_DIR$/src/containers/Password/SubmitWeChat.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Password/ToWeChat.js" afterPath="$PROJECT_DIR$/src/containers/Password/ToWeChat.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Password/Vpassword.js" afterPath="$PROJECT_DIR$/src/containers/Password/Vpassword.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Password/idcard.js" afterPath="$PROJECT_DIR$/src/containers/Password/idcard.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Password/index.less" afterPath="$PROJECT_DIR$/src/containers/Password/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Password/password.js" afterPath="$PROJECT_DIR$/src/containers/Password/password.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Password/password.less" afterPath="$PROJECT_DIR$/src/containers/Password/password.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Password/resetPassword.js" afterPath="$PROJECT_DIR$/src/containers/Password/resetPassword.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Pay/index.js" afterPath="$PROJECT_DIR$/src/containers/Pay/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Pay/index.less" afterPath="$PROJECT_DIR$/src/containers/Pay/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Pay/logistics.js" afterPath="$PROJECT_DIR$/src/containers/Pay/logistics.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Pay/paySuccess.js" afterPath="$PROJECT_DIR$/src/containers/Pay/paySuccess.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Product/Commodity.js" afterPath="$PROJECT_DIR$/src/containers/Product/Commodity.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Product/Evaluation.js" afterPath="$PROJECT_DIR$/src/containers/Product/Evaluation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Product/index.js" afterPath="$PROJECT_DIR$/src/containers/Product/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Product/index.less" afterPath="$PROJECT_DIR$/src/containers/Product/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/ReductionArea/index.js" afterPath="$PROJECT_DIR$/src/containers/ReductionArea/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/SbLodge/index.js" afterPath="$PROJECT_DIR$/src/containers/SbLodge/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/SbLodge/index.less" afterPath="$PROJECT_DIR$/src/containers/SbLodge/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Search/index.js" afterPath="$PROJECT_DIR$/src/containers/Search/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Search/index.less" afterPath="$PROJECT_DIR$/src/containers/Search/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/SendSms/SucessExchange.js" afterPath="$PROJECT_DIR$/src/containers/SendSms/SucessExchange.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/SendSms/index.js" afterPath="$PROJECT_DIR$/src/containers/SendSms/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/SendSms/index.less" afterPath="$PROJECT_DIR$/src/containers/SendSms/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/SetTlement/index.js" afterPath="$PROJECT_DIR$/src/containers/SetTlement/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/SetTlement/index.less" afterPath="$PROJECT_DIR$/src/containers/SetTlement/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Share/index.js" afterPath="$PROJECT_DIR$/src/containers/Share/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Share/index.less" afterPath="$PROJECT_DIR$/src/containers/Share/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/Share/rule.js" afterPath="$PROJECT_DIR$/src/containers/Share/rule.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/ShoppingCart/index.js" afterPath="$PROJECT_DIR$/src/containers/ShoppingCart/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/ShoppingCart/index.less" afterPath="$PROJECT_DIR$/src/containers/ShoppingCart/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/TicketCenter/couponList.js" afterPath="$PROJECT_DIR$/src/containers/TicketCenter/couponList.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/TicketCenter/index.js" afterPath="$PROJECT_DIR$/src/containers/TicketCenter/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/TicketCenter/index.less" afterPath="$PROJECT_DIR$/src/containers/TicketCenter/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/VbExchange/index.js" afterPath="$PROJECT_DIR$/src/containers/VbExchange/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/VbExchange/index.less" afterPath="$PROJECT_DIR$/src/containers/VbExchange/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/login/fastLogin.js" afterPath="$PROJECT_DIR$/src/containers/login/fastLogin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/login/index.js" afterPath="$PROJECT_DIR$/src/containers/login/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/login/index.less" afterPath="$PROJECT_DIR$/src/containers/login/index.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/containers/login/register.js" afterPath="$PROJECT_DIR$/src/containers/login/register.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/Password.js" afterPath="$PROJECT_DIR$/src/reducers/Password.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/activity.js" afterPath="$PROJECT_DIR$/src/reducers/activity.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/activityProduct.js" afterPath="$PROJECT_DIR$/src/reducers/activityProduct.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/address.js" afterPath="$PROJECT_DIR$/src/reducers/address.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/brandSale.js" afterPath="$PROJECT_DIR$/src/reducers/brandSale.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/classIfication.js" afterPath="$PROJECT_DIR$/src/reducers/classIfication.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/collection.js" afterPath="$PROJECT_DIR$/src/reducers/collection.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/coupon.js" afterPath="$PROJECT_DIR$/src/reducers/coupon.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/evaluation.js" afterPath="$PROJECT_DIR$/src/reducers/evaluation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/home.js" afterPath="$PROJECT_DIR$/src/reducers/home.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/hotel.js" afterPath="$PROJECT_DIR$/src/reducers/hotel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/index.js" afterPath="$PROJECT_DIR$/src/reducers/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/newShelves.js" afterPath="$PROJECT_DIR$/src/reducers/newShelves.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/orderDetails.js" afterPath="$PROJECT_DIR$/src/reducers/orderDetails.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/product.js" afterPath="$PROJECT_DIR$/src/reducers/product.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/sblodge.js" afterPath="$PROJECT_DIR$/src/reducers/sblodge.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/search.js" afterPath="$PROJECT_DIR$/src/reducers/search.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducers/user.js" afterPath="$PROJECT_DIR$/src/reducers/user.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/routes.js" afterPath="$PROJECT_DIR$/src/routes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/store/configureStore.dev.js" afterPath="$PROJECT_DIR$/src/store/configureStore.dev.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/store/configureStore.js" afterPath="$PROJECT_DIR$/src/store/configureStore.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/store/configureStore.prod.js" afterPath="$PROJECT_DIR$/src/store/configureStore.prod.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/Source.js" afterPath="$PROJECT_DIR$/src/test/Source.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/Target.js" afterPath="$PROJECT_DIR$/src/test/Target.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/utils/form.js" afterPath="$PROJECT_DIR$/src/utils/form.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/utils/index.js" afterPath="$PROJECT_DIR$/src/utils/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/utils/md5.js" afterPath="$PROJECT_DIR$/src/utils/md5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/utils/tools.js" afterPath="$PROJECT_DIR$/src/utils/tools.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/utils/webStorageCache.js" afterPath="$PROJECT_DIR$/src/utils/webStorageCache.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/utils/wx.js" afterPath="$PROJECT_DIR$/src/utils/wx.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme.js" afterPath="$PROJECT_DIR$/theme.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/404.html" afterPath="$PROJECT_DIR$/views/404.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/tpl/index.tpl.html" afterPath="$PROJECT_DIR$/views/tpl/index.tpl.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.config.js" afterPath="$PROJECT_DIR$/webpack.config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webpack.production.config.js" afterPath="$PROJECT_DIR$/webpack.production.config.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="VB" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Wallet.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/containers/Commission/Wallet.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2760">
+              <caret line="124" column="39" lean-forward="false" selection-start-line="124" selection-start-column="39" selection-end-line="124" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1296">
+              <caret line="54" column="8" lean-forward="false" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/actions/activity.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="864">
+              <caret line="37" column="9" lean-forward="false" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="address.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/actions/address.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#56#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/containers/Commission/index.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitattributes" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitattributes">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pay-pop-box.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/containers/Commission/pay-pop-box.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1152">
+              <caret line="48" column="12" lean-forward="false" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="withDraw.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/containers/Commission/withDraw.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>background-base</find>
+      <find>linktoPath</find>
+      <find>url-loader</find>
+      <find>GET_PRODUCT_LIST</find>
+      <find>swiper-slide</find>
+      <find>transform-runtime</find>
+      <find>Text</find>
+      <find>addCart</find>
+      <find>Cart</find>
+      <find>addCartBar</find>
+      <find>modal_productProperties</find>
+      <find>ProductProperties</find>
+      <find>lableClick</find>
+      <find>changeData</find>
+      <find>temAray</find>
+      <find>babel-plugin-import</find>
+      <find>postcss</find>
+      <find>sass</find>
+      <find>infiactionlist</find>
+      <find>GET_INFICATION_LIST</find>
+      <find>exitSys</find>
+      <find>storage</find>
+      <find>node-sass</find>
+      <find>better-npm-run</find>
+      <find>提现</find>
+      <find>请输入提现密码</find>
+      <find>Wallet</find>
+      <find>pwdinput</find>
+      <find>pwd_box</find>
+      <find>onpwdChange</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\V币商城\VB\src</dir>
+      <dir>D:\V币商城\VB</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/reducers/orderDetails.js" />
+        <option value="$PROJECT_DIR$/src/components/ImageView/index.js" />
+        <option value="$PROJECT_DIR$/src/components/ImageView/index.less" />
+        <option value="$PROJECT_DIR$/src/containers/Activity/index.js" />
+        <option value="$PROJECT_DIR$/src/components/ProductItem/index.js" />
+        <option value="$PROJECT_DIR$/src/reducers/home.js" />
+        <option value="$PROJECT_DIR$/src/containers/Product/Commodity.js" />
+        <option value="$PROJECT_DIR$/src/containers/Product/Evaluation.js" />
+        <option value="$PROJECT_DIR$/src/containers/BrandSale/index.js" />
+        <option value="$PROJECT_DIR$/src/containers/ActivityProduct/index.js" />
+        <option value="$PROJECT_DIR$/src/containers/AfterSale/refundDetail.js" />
+        <option value="$PROJECT_DIR$/src/containers/Coupon/index.less" />
+        <option value="$PROJECT_DIR$/src/containers/AboutVb/index.js" />
+        <option value="$PROJECT_DIR$/src/containers/Pay/index.js" />
+        <option value="$PROJECT_DIR$/src/containers/Coupon/bindCoupon.js" />
+        <option value="$PROJECT_DIR$/src/components/Assess/index.js" />
+        <option value="$PROJECT_DIR$/src/containers/Product/index.less" />
+        <option value="$PROJECT_DIR$/src/containers/Address/index.less" />
+        <option value="$PROJECT_DIR$/src/containers/login/register.js" />
+        <option value="$PROJECT_DIR$/src/assets/style/common.less" />
+        <option value="$PROJECT_DIR$/src/containers/OrderDetails/index.less" />
+        <option value="$PROJECT_DIR$/src/containers/OrderDetails/index.js" />
+        <option value="$PROJECT_DIR$/src/containers/ShoppingCart/index.js" />
+        <option value="$PROJECT_DIR$/src/containers/AfterSale/chooseGoods.js" />
+        <option value="$PROJECT_DIR$/src/containers/ClassIfication/index.js" />
+        <option value="$PROJECT_DIR$/src/containers/VbExchange/index.js" />
+        <option value="$PROJECT_DIR$/src/components/CouponTem/index.js" />
+        <option value="$PROJECT_DIR$/src/containers/Coupon/index.js" />
+        <option value="$PROJECT_DIR$/src/components/CouponTem/index.less" />
+        <option value="$PROJECT_DIR$/src/containers/Address/AddressList.js" />
+        <option value="$PROJECT_DIR$/src/containers/Address/index.js" />
+        <option value="$PROJECT_DIR$/src/containers/AfterSale/apply.js" />
+        <option value="$PROJECT_DIR$/src/containers/login/index.js" />
+        <option value="$PROJECT_DIR$/src/containers/login/index.less" />
+        <option value="$PROJECT_DIR$/src/components/NavBar/index.js" />
+        <option value="$PROJECT_DIR$/webpack.production.config.js" />
+        <option value="$PROJECT_DIR$/src/routes.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/components/ProductProperties/index.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/views/tpl/index.tpl.html" />
+        <option value="$PROJECT_DIR$/src/reducers/address.js" />
+        <option value="$PROJECT_DIR$/src/containers/Home/index.js" />
+        <option value="$PROJECT_DIR$/src/reducers/classIfication.js" />
+        <option value="$PROJECT_DIR$/src/utils/tools.js" />
+        <option value="$PROJECT_DIR$/src/actions/hostConf.js" />
+        <option value="$PROJECT_DIR$/webpack.config.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/containers/Commission/index.less" />
+        <option value="$PROJECT_DIR$/src/containers/Commission/pay-pop-box.less" />
+        <option value="$PROJECT_DIR$/src/containers/Commission/Wallet.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="113" />
+    <option name="y" value="27" />
+    <option name="width" value="1920" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="思埠商城" type="b2602c69:ProjectViewProjectNode" />
+              <item name="思埠商城" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../my-doctor-master" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/containers/Commission" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e68142e-35e9-4024-a2b6-99054fba5461" name="Default" comment="" />
+      <created>1509412160548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509412160548</updated>
+      <workItem from="1509412228442" duration="12589000" />
+      <workItem from="1509435985994" duration="8761000" />
+      <workItem from="1509496962408" duration="6848000" />
+      <workItem from="1509504709240" duration="21883000" />
+      <workItem from="1509583801527" duration="10401000" />
+      <workItem from="1509670636753" duration="611000" />
+      <workItem from="1509928843820" duration="1464000" />
+      <workItem from="1510195218797" duration="2174000" />
+      <workItem from="1510276968567" duration="5458000" />
+      <workItem from="1510292119105" duration="5041000" />
+      <workItem from="1510733455296" duration="1366000" />
+      <workItem from="1511484722648" duration="4085000" />
+      <workItem from="1511503472576" duration="5789000" />
+      <workItem from="1511571551034" duration="20593000" />
+      <workItem from="1511743343374" duration="4676000" />
+      <workItem from="1511829790708" duration="24763000" />
+      <workItem from="1511917238553" duration="16447000" />
+      <workItem from="1512002864920" duration="22044000" />
+      <workItem from="1512088829059" duration="13224000" />
+      <workItem from="1512108804915" duration="4659000" />
+      <workItem from="1512350546508" duration="76000" />
+      <workItem from="1512461339776" duration="3932000" />
+      <workItem from="1512522142384" duration="8258000" />
+      <workItem from="1512608922683" duration="2523000" />
+      <workItem from="1512614933097" duration="7000" />
+      <workItem from="1512976399491" duration="318000" />
+      <workItem from="1513047299671" duration="234000" />
+      <workItem from="1513060921088" duration="147000" />
+      <workItem from="1513143317679" duration="3214000" />
+      <workItem from="1513150697043" duration="827000" />
+      <workItem from="1513157995623" duration="43000" />
+      <workItem from="1513158567960" duration="606000" />
+      <workItem from="1513212643263" duration="15000" />
+      <workItem from="1513566232706" duration="639000" />
+      <workItem from="1513580553363" duration="4616000" />
+      <workItem from="1513663325858" duration="731000" />
+      <workItem from="1513732256139" duration="2479000" />
+      <workItem from="1513737295389" duration="258000" />
+      <workItem from="1513754668759" duration="1724000" />
+      <workItem from="1513821652745" duration="9416000" />
+      <workItem from="1513851379413" duration="1335000" />
+      <workItem from="1513908349473" duration="650000" />
+      <workItem from="1513909285659" duration="6524000" />
+      <workItem from="1513995358657" duration="201000" />
+      <workItem from="1514448152592" duration="363000" />
+      <workItem from="1514451381203" duration="848000" />
+      <workItem from="1514512749885" duration="4105000" />
+      <workItem from="1514873668665" duration="350000" />
+      <workItem from="1514947087250" duration="750000" />
+      <workItem from="1515028559082" duration="598000" />
+      <workItem from="1515114857848" duration="3170000" />
+      <workItem from="1517991521003" duration="75000" />
+      <workItem from="1518151104069" duration="9967000" />
+      <workItem from="1518162904772" duration="733000" />
+      <workItem from="1518163665788" duration="37000" />
+      <workItem from="1518164275019" duration="5878000" />
+      <workItem from="1518170480591" duration="9000" />
+      <workItem from="1518340874332" duration="254000" />
+      <workItem from="1518341279864" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="268809000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18272775" sideWeight="0.49393415" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985386" sideWeight="0.4855187" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22338204" sideWeight="0.5397578" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985386" sideWeight="0.49394417" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18272775" sideWeight="0.50606585" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22338204" sideWeight="0.46024224" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18272775" sideWeight="0.50606585" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985386" sideWeight="0.4918378" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12301166" sideWeight="0.49791667" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/MyInfo/index.js</url>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/MyOrder/index.js</url>
+          <line>54</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/App.js</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/ShoppingCart/index.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/containers/Activity/index.js</url>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/store/configureStore.js</url>
+          <line>1</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/containers/ActivityProduct/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Product/Commodity.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="65" lean-forward="false" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/coupon.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/ProductProperties/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2808">
+          <caret line="167" column="68" lean-forward="false" selection-start-line="167" selection-start-column="68" selection-end-line="167" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Home/index1.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3096">
+          <caret line="172" column="1" lean-forward="false" selection-start-line="172" selection-start-column="1" selection-end-line="172" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/activity.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/activityProduct.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="52" lean-forward="false" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/ClassIfication/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/classIfication.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="59" column="13" lean-forward="false" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/address.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="30" lean-forward="false" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/brandSale.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Home/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/classIfication.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="59" column="16" lean-forward="false" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Address/address.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-137022">
+          <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/configureStore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="20" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="76" />
+          <folding>
+            <element signature="e#1#74#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7974">
+          <caret line="444" column="52" lean-forward="false" selection-start-line="444" selection-start-column="52" selection-end-line="444" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/collection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/evaluation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/TabBar/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1044">
+          <caret line="62" column="30" lean-forward="false" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/MyInfo/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="50" column="17" lean-forward="false" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/tools.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6072">
+          <caret line="253" column="45" lean-forward="false" selection-start-line="253" selection-start-column="45" selection-end-line="253" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/BaseAction.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="42" column="2" lean-forward="false" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/hostConf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/tpl/index.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1344">
+          <caret line="56" column="42" lean-forward="false" selection-start-line="56" selection-start-column="42" selection-end-line="56" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/style/theme.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="1" lean-forward="false" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Commission/Detailed01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="46" column="25" lean-forward="true" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/user.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="7" column="43" lean-forward="true" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es6.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="20897" column="17" lean-forward="false" selection-start-line="20897" selection-start-column="17" selection-end-line="20897" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/Group@2x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3405">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.production.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1834">
+          <caret line="28" column="2" lean-forward="false" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Commission/order.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/jquery/src/css/showHide.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="82" column="4" lean-forward="false" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Commission/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Commission/index.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Commission/pay-pop-box.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="48" column="12" lean-forward="false" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/containers/Commission/withDraw.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Wallet.js" />
+    <entry file="file://$PROJECT_DIR$/src/containers/Commission/Wallet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2760">
+          <caret line="124" column="39" lean-forward="false" selection-start-line="124" selection-start-column="39" selection-end-line="124" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="54" column="8" lean-forward="false" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/activity.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="37" column="9" lean-forward="false" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/address.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

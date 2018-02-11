@@ -1,0 +1,565 @@
+@import "../../assets/style/theme.less";
+
+
+li{
+
+    list-style: none;
+
+}
+
+.commission-content {
+    .section {
+        overflow: auto;
+    }
+    .cheader {
+        background: url("../../assets/images/tixian_bg.png") no-repeat;
+        background-size: 100% 100%;
+        color: @color-text-base-inverse;
+        padding: 20*@hd 15*@hd 30*@hd;
+        .d1 {
+            font-size: @font-size-base;
+        }
+        .d2 {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding-top: 10*@hd;
+            .money {
+                font-size: 24*@hd;
+                .unit {
+                    font-size: @font-size-base;
+                }
+            }
+            .btn-tixian {
+                border: 1*@hd solid @fill-base;
+                display: inline-block;
+                padding: 6*@hd 14*@hd;
+                font-size: 18*@hd;
+                border-radius: 7*@hd;
+                line-height: 1;
+            }
+        }
+    }
+    .ctop {
+        padding: 20*@hd 0 10*@hd;
+        display: flex;
+        background: @fill-base;
+        .details {
+            flex: 1;
+            padding: 0 20*@hd;
+            +.details {
+                border-left: 1px solid @border-color-base;
+                padding-left: 30*@hd;
+            }
+            .s1 {
+                color: @color-text-secondary;
+                font-size: @font-size-base;
+                padding-bottom: 10*@hd;
+            }
+            .s2 {
+                font-size: 20*@hd;
+                padding-bottom: 15*@hd;
+                .unit {
+                    font-size: @font-size-caption-sm;
+                }
+            }
+            .s3 {
+                font-size: @font-size-base;
+                &.redColor {
+                    color: @fill-ancillary-red;
+                }
+                &.yellowColor {
+                    color: @fill-ancillary-yellow;
+                }
+            }
+        }
+    }
+    .cbottom {
+        padding: 10*@hd 5*@hd 10*@hd 10*@hd;
+        font-size: @font-size-caption-sm;
+        color: @color-text-secondary;
+        background: #FBFBFB;
+    }
+    .my-list {
+        .am-list-extra {
+            font-size: @font-size-base;
+        }
+        .am-list-content {
+            font-size: @font-size-base;
+        }
+    }
+    .tab-item {
+        position: relative;
+        &.second {
+            margin-top: 48*@hd;
+            background: #ccc;
+            .top {
+                display: flex;
+                justify-content: space-around;
+                padding: 10*@hd 20*@hd;
+                position: fixed;
+                top: 0;
+                left: 100%;
+                z-index: 999;
+                width: 100%;
+                background: @fill-body;
+                .btn {
+                    display: inline-block;
+                    border-radius: 12*@hd;
+                    background: @fill-base;
+                    padding: 6*@hd 12*@hd;
+                    font-size: @font-size-base;
+                    &.active {
+                        color: @fill-ancillary-yellow;
+                    }
+                }
+            }
+        }
+    }
+    .commission-products {
+        background: @fill-base;
+        padding-left: 10*@hd;
+        .shop-cart-item {
+            border-bottom: 1px solid @border-color-base;
+            .non-fresh-txt {
+                color: @color-text-secondary;
+                line-height: 1.2;
+            }
+            .cart-product-name {
+                padding-right: 20*@hd;
+            }
+            .commission-status {
+                display: inline-block;
+                background: #62C8F1;
+                color: @color-text-base-inverse;
+                font-size: @font-size-caption-sm;
+                border-radius: 16*@hd;
+                padding: 4*@hd 10*@hd;
+                margin-top: 18*@hd;
+                &.green {
+                    background: #62b400;
+                }
+                &.gray {
+                    background: #999999;
+                }
+            }
+            .shp-commission-bottom {
+                padding-bottom: 10*@hd;
+                padding-top: 15*@hd;
+                .d1 {
+                    display: flex;
+                    .d1-s {
+                        flex: 1;
+                        .title {
+                            font-size: 13*@hd;
+                            color: @color-text-secondary;
+                            display: block;
+                        }
+                        .price {
+                            padding-top: 10*@hd;
+                            display: block;
+                            font-size: @font-size-caption-sm;
+                            .unit {
+                                font-size: 20*@hd;
+                            }
+                        }
+                    }
+                }
+                .d2 {
+                    padding-top: 10*@hd;
+                    display: flex;
+                    justify-content: space-between;
+                    padding-right: 10*@hd;
+                    .d2-s {
+                        color: @color-text-secondary;
+                        font-size: @font-size-caption-sm;
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+/* 申请提现页面 */
+
+.commission {
+    width: 100%;
+    height: 100%;
+    background: #FFFFFF;
+    ul {
+        text-align: center;
+        .one {
+            padding-top: 70px;
+        }
+        .two {
+            color: #333333;
+            font-size: 16*@hd;
+            margin-top: 35px;
+        }
+        .three {
+            color: #333333;
+            font-size: 42*@hd;
+            margin-top: 13px;
+            font-weight: bold;
+        }
+    }
+    .box {
+        background: #FFDB53;
+        width: 345*@hd;
+        height: 44*@hd;
+        margin: auto;
+        margin-top: 100px;
+        p {
+            color: #333333;
+            font-size: 16*@hd;
+            text-align: center;
+            line-height: 44*@hd;
+        }
+    }
+}
+
+// 去认证弹框
+.am-modal-title {
+    line-height: 40*@hd;
+}
+
+.am-modal-transparent {
+    width: 300*@hd;
+}
+
+.am-modal-header {
+    padding: 25*@hd;
+}
+
+// 填写提现金额
+.wallet {
+    width: 100%;
+    .wallet_box {
+        background: #fff;
+        .one {
+            width: 345*@hd;
+            height: 79*@hd;
+            background: #FEDD63;
+            margin: auto;
+            margin-top: 15px*@hd;
+            position: relative;
+            .left {
+                position: absolute;
+                left: 30px;
+                top: 42px;
+                color: #333333;
+                font-szie: 14*@hd;
+            }
+            .right {
+                position: absolute;
+                left: 280px;
+                top: 42px;
+                color: #333333 100%;
+                font-szie: 16*@hd;
+            }
+            .bottom {
+                position: absolute;
+                left: 280px;
+                top: 85px;
+                color: #333333;
+                font-szie: 14*@hd;
+            }
+        }
+        .two {
+            width: 345*@hd;
+            height: 130*@hd;
+            background: #FFFFFF;
+            margin: auto;
+            .top {
+                padding-top: 29*@hd;
+                padding-left: 15*@hd;
+                color: #333333;
+                font-szie: 14*@hd;
+                box-sizing: border-box;
+            }
+            .center {
+                padding: 32*@hd 0 13*@hd 40*@hd;
+                box-sizing: border-box;
+                font-size: 42*@hd;
+                input {
+                    width: 200*@hd;
+                    border: none;
+                }
+            }
+        }
+        .wallet_bottom {
+            width: 315*@hd;
+            height: 49*@hd;
+            margin: auto;
+            border-top: 1px solid #EAEAEA;
+            color: #999999;
+            line-height: 49*@hd;
+            font-size: 15*@hd;
+            span:nth-child(2) {
+                color: #151515;
+            }
+        }
+    }
+    .box {
+        background: #FFDB53;
+        width: 345*@hd;
+        height: 44*@hd;
+        margin: 50*@hd 15*@hd 0 15*@hd;
+        div {
+            color: #333333;
+            font-size: 16*@hd;
+            text-align: center;
+            line-height: 44*@hd;
+        }
+    }
+} // 填写密码弹框样式
+.pwd_box {
+    .take_box {
+        font-size: 14*@hd;
+    }
+    .msg {
+        font-size: 42*@hd;
+        color: #000;
+    } // ______________________________________________
+    // .pwdput {
+    //     position: relative;
+    //     input {
+    //         box-sizing: border-box;
+    //         opacity: 0;
+    //         // z-index: 100;
+    //         border: 1px red solid;
+    //         width: 216*@hd;
+    //         height: 36*@hd;
+    //     }
+    // }
+    // span {
+    //     width: 216*@hd;
+    //     height: 36*@hd;
+    //     // z-index: -1;
+    //     box-sizing: border-box;
+    //     display: block;
+    //     position: absolute;
+    //     left:26*@hd;
+    //     top: 0;
+    //     border: 1px solid blue;
+    // } // ____________________________________________
+
+    input {
+        width: 360px;
+        height: 60px;
+        text-indent:30px;
+
+        //text-indent: 15*@hd;
+        word-spacing: 60px;
+        background: url("../../assets/images/Group@2x.png") no-repeat;
+        background-size : 360px 60px;
+        border: none;
+
+
+    }
+   input:focus{
+       color: red
+   }
+
+
+
+}
+
+
+
+
+
+
+// 提现明细
+.withdrawals {
+    background: #FFFFFF 100%;
+    width: 100%; // height: 190*@hd;
+    // margin-top: -20px;
+    .box {
+        width: 100%;
+        height: 95*@hd;
+        .boxx {
+            width: 360*@hd;
+            height: 95*@hd;
+            border-bottom: 1px solid #EAEAEA;
+            margin-left: 30px;
+            .top {
+                box-sizing: border-box;
+                color: #333333 100%;
+                font-size: 16*@hd;
+            }
+            .center {
+                width: 360*@hd;
+                height: 65px;
+                position: relative;
+                .left {
+                    position: absolute;
+                    left: 0;
+                    padding-top: 5*@hd;
+                    font-size: 16*@hd;
+                }
+                .right {
+                    position: absolute;
+                    right: 10px;
+                    color: #333333 100%;
+                    font-size: 20*@hd;
+                }
+            }
+            .bottom {
+                width: 360*@hd;
+                position: relative;
+                color: #999999;
+                font-size: 12*@hd;
+                background: #fff;
+                margin-top: 100*@hd;
+                .left {
+                    position: absolute;
+                    left: 0;
+                }
+                .right {
+                    position: absolute;
+                    right: 10px;
+                }
+            }
+        }
+    }
+}
+
+// 提现处理单
+.vb-content {
+    background-color: #fff;
+}
+
+.detailed {
+    width: 100%;
+    .top_title {
+        margin-left: 10*@hd;
+    }
+    .top_title:first-child {
+        .am-steps-item-icon {
+            width: 10*@hd;
+            height: 10*@hd;
+            background-color: #FF004C;
+            margin-left: 5*@hd;
+        }
+        .am-steps-item-title {
+            color: #FF004C
+        }
+    }
+    .top_title:last-child {
+        .am-steps-item-icon {
+            width: 10*@hd;
+            height: 10*@hd;
+            background-color: #999;
+            margin-left: 5*@hd;
+        }
+        .am-steps-item-title {
+            color: #999
+        }
+    }
+    .top_title {
+        .am-steps-item-icon {
+            width: 10*@hd;
+            height: 10*@hd;
+            background-color: #FF004C;
+            margin-left: 5*@hd;
+        }
+        .am-steps-item-title {
+            color: #FF004C
+        }
+    }
+    .box {
+        width: 345*@hd;
+        margin: auto;
+        position: relative;
+        .top {
+            margin: 80px 0px 100px 80px;
+            span {
+                margin-left: 20px;
+                color: #FF004C;
+                font-size: 16*@hd;
+            }
+        }
+        .center {
+            margin: 0px 0px 100px 71px;
+            image {
+                width: 20*@hd;
+                height: 20*@hd;
+            }
+            span {
+                margin-left: 20px;
+                color: #333333 100%;
+                font-size: 16*@hd;
+            }
+        }
+        .bottom {
+            margin-left: 80px;
+            span {
+                margin-left: 20px;
+                color: #999999;
+                font-size: 16*@hd;
+            }
+        }
+        .p1 {
+            position: absolute;
+            height: 100px;
+            width: 10px;
+            border-left: 1px dashed #979797;
+            z-index: 10;
+            top: 36px;
+            left: 91px;
+        }
+        .p2 {
+            position: absolute;
+            height: 100px;
+            width: 10px;
+            border-left: 1px dashed #979797;
+            z-index: 10;
+            top: 183px;
+            left: 91px;
+        }
+    }
+    .container {
+        width: 345*@hd;
+        height: 209*@hd;
+        border-top: 1px solid #EAEAEA;
+        margin: auto;
+        .top {
+            width: 345*@hd;
+            height: 95px;
+            position: relative;
+            .p1 {
+                position: absolute;
+                left: 0;
+                padding-top: 37px;
+                box-sizing: border-box;
+                color: #999999;
+                font-size: 14*@hd;
+            }
+            .p2 {
+                position: absolute;
+                right: 0;
+                padding-top: 30px;
+                color: #333333;
+                font-size: 14*@hd;
+            }
+        }
+        .bottom {
+            width: 345*@hd;
+            position: relative;
+            .p1 {
+                position: absolute;
+                left: 0;
+                color: #999999;
+                font-size: 14*@hd;
+            }
+            .p2 {
+                position: absolute;
+                right: 0;
+                color: #333333;
+                font-size: 14*@hd;
+            }
+        }
+    }
+}

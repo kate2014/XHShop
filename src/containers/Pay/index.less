@@ -1,0 +1,154 @@
+@import "../../assets/style/theme.less";
+.online-payment {
+    .vb-tab-bar-fix{
+        position:fixed;
+        bottom:0;
+        left: 0;
+        width:100%;
+        .btn{
+            display:block;
+            background: @fill-ancillary;
+            width: 100%;
+            text-align: center;
+            height:44*@hd;
+            line-height: 44*@hd;
+        }
+    }
+}
+.order-details{
+    .btn-group{
+        font-size:@font-size-base;
+        .btn{
+            display:block;
+            height:44 *@hd;
+            line-height:44*@hd;
+            text-align:center;
+        }
+        .btn1{
+            border:1*@hd solid @border-color-base;
+            background:@fill-base;
+        }
+        .btn2{
+            background:@fill-ancillary;
+        }
+        .tip{
+            color: @color-text-secondary;
+            font-size:@font-size-caption-sm;
+        }
+    }
+}
+.logistics-top{
+    background:@fill-base;
+    color:@color-text-secondary;
+    display:flex;
+    padding:10*@hd;
+    p{
+        padding:0;
+        margin:0;
+    }
+    .top-left {
+        
+        margin-right:10*@hd;
+        img{
+            width:56*@hd;
+            height:56*@hd;
+        }
+    }
+    .top-right{
+        p{
+            .span1{
+                width:90*@hd;
+            }
+        }
+        .p1{
+            font-size:@font-size-base;
+            flex:1;
+            padding-bottom:10*@hd;
+            .status{
+                color:@fill-ancillary-yellow;
+            }
+        }
+        .p2,.p3{
+            font-size:@font-size-caption-sm;
+            padding-bottom:4*@hd;
+        }
+        
+        
+    }
+    
+}
+.logistics-center{
+    background:@fill-base;
+    padding:10*@hd;
+    
+    .am-steps-item-title{
+        color:@color-text-secondary;
+        font-weight: normal;
+        font-size:@font-size-base;
+    }
+    .am-steps-item-process{
+        .am-steps-item-title,.am-steps-item-description{
+            color:@fill-ancillary-yellow;
+        }
+        
+    }
+    
+}
+
+.coupon-diago{
+    .drawer_box{
+        position: absolute;
+        z-index: 99999;
+        top:50%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+        .icon-close{
+            position: absolute;
+            top: -10*@hd;
+            right: -10*@hd;
+            &:after{
+                color:#fff;
+                font-size:40*@hd;
+            }
+        }
+        .coupon{
+            width:300*@hd;
+            height:349*@hd;
+            background:url('../../assets/images/pov-coupon.png') no-repeat;
+            background-size: contain;
+            .top{
+                color:#fff;
+                text-align:center;
+                padding-top:80*@hd;
+                .d1{
+                    font-size:30*@hd;
+                    padding-bottom:10*@hd;
+                }
+                .d2{
+                    height:18*@hd;
+                }
+            }
+            .bottom{
+                padding-top:80*@hd;
+                text-align:center;
+                .d1{
+                    color:#999;
+                    padding-bottom:10*@hd;
+
+                }
+                .d2{
+                    font-size:18*@hd;
+                    padding-bottom:10*@hd;
+                }
+                .am-button{
+                    width:90%;
+                    background-color:#FB5F27 ;
+                    font-size:14*@hd;
+                    text-align:center;
+                    color:#fff;
+                    margin:0 auto;
+                }
+            }
+        }
+    }
+}

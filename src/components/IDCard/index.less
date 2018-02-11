@@ -1,0 +1,53 @@
+@import "../../assets/style/theme";
+.uploadImg-com{
+	padding: 10*@hd;
+	.img{
+		width: 80*@hd;
+		height:80*@hd;
+		display: inline-block;
+		margin-right: 10*@hd;
+	}
+	.inputOuter{
+		position: relative;
+		width: 80*@hd;
+		height:80*@hd;
+		display: inline-block;
+		box-sizing: border-box;
+    border-radius: 0.06rem;
+    border: 1PX solid #ddd;
+    background-color: #fff;
+		&:before {
+		    width: 1 *@hd;
+		    height: 0.5rem;
+		    content: " ";
+		    position: absolute;
+		    top: 50%;
+		    left: 50%;
+		    -webkit-transform: translate(-50%, -50%);
+		    -ms-transform: translate(-50%, -50%);
+		    transform: translate(-50%, -50%);
+		    background-color: #ccc;
+		}
+		&:after {
+		  height: 1PX;
+	    width: 0.5rem;
+	    content: " ";
+	    position: absolute;
+	    top: 50%;
+	    left: 50%;
+	    -webkit-transform: translate(-50%, -50%);
+	    -ms-transform: translate(-50%, -50%);
+	    transform: translate(-50%, -50%);
+	    background-color: #ccc;
+		}
+	}
+	.inputfile{
+		position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0;
+
+	}
+}
